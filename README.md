@@ -4,13 +4,11 @@ Django-doc-helper
 A chrome extension to auto redirect to desired django docs version. 
 
 ###Usage:
-- Downlaod the project as zip.
-- Extract the zip package
+- Downlaod the file [django-doc-helper.crx](https://github.com/vivekhas3/Django-doc-helper/blob/master/django-doc-helper.crx "Download Django Doc Helper")
 - Open Chrome
 - Type [chrome://extensions](chrome://extensions "chrome extensions manager") in the address bar
-- Ensure Developer mode is checked in the top right corner
-- Select Load unpacked Extension
-- Select the folder and Click OK
+- Drag and drop the .crx file to this tab of chrome
+- Click OK
 
 ###Settings:
 - Type [chrome://extensions](chrome://extensions "chrome extensions manager") in the address bar
@@ -18,6 +16,9 @@ A chrome extension to auto redirect to desired django docs version.
 - Click options
 - Update the desired django version
 - Click Save
+
+###Featurees:
+	The setiings will be saved across all synced devices.
 
 ###Issues:
 
